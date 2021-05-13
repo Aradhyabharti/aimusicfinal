@@ -1,0 +1,42 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin:0px;
+}
+
+.note{
+    font-size:20px;
+    color:red;
+}
+
+body{
+    background-size:cover;
+}
+
+
+.leftgif {
+    float: left;
+    height: 150px;
+    width:150px;
+}
+
+.rightgif {
+    float: right;
+    height: 150px;
+    width:150px;
+}
+
+.playbutton{
+    width:130px;
+    font-size: 25px;
+}
+
+canvas{
+    border: 5px solid pink;
+    border-radius: 20px;
+    margin-top: 100px;
+}
+
+
+
+    
